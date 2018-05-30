@@ -1,7 +1,9 @@
 Here you can find some usefull functions which help you to operate with Infoblox IPAM system.
 
 cred.py - put here your credentials and url of the system
+
 iblox_logging.py - here I put logging configuration
+
 
 
 Here are some examples.
